@@ -2,7 +2,7 @@
 
 A responsive, single-page website built with plain HTML, CSS, and JavaScript, with no frameworks or build tools. It is based on the free **Tooplate 2169 Hustle Bee** template.
 
-**Live demo:** https://jubair211.github.io/jubair-portfolio/2169_hustle_bee/
+**Live demo:** https://jubair211.github.io/jubair-portfolio/
 
 ## Features
 
